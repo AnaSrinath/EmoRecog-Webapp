@@ -1,4 +1,3 @@
 Flask==1.1.1
 gunicorn==20.1.0
-opencv-python==4.5.3.56
-EmotionRecognition==0.3.4
+facial_emotion_recognition==0.3.4
